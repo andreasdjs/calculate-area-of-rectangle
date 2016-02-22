@@ -1,0 +1,26 @@
+{
+  "name": "calculate-area-of-rectangle",
+  "version": "1.0.0",
+  "description": "A simple demo of Mocha Chai where we tes a function that calculates the area of a rectangle.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasdjs/calculate-area-of-rectangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasdjs/calculate-area-of-rectangle/issues"
+  },
+  "homepage": "https://github.com/andreasdjs/calculate-area-of-rectangle#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
